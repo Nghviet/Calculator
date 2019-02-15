@@ -1,0 +1,10 @@
+﻿  Source.cpp
+l:\sdl_calculator project 1\sdl_calculator project 1\source.cpp(102): warning C4018: '<': signed/unsigned mismatch
+l:\sdl_calculator project 1\sdl_calculator project 1\source.cpp(153): warning C4018: '<': signed/unsigned mismatch
+l:\sdl_calculator project 1\sdl_calculator project 1\source.cpp(189): warning C4018: '<': signed/unsigned mismatch
+l:\sdl_calculator project 1\sdl_calculator project 1\source.cpp(211): warning C4018: '<': signed/unsigned mismatch
+l:\sdl_calculator project 1\sdl_calculator project 1\source.cpp(245): warning C4018: '<': signed/unsigned mismatch
+l:\sdl_calculator project 1\sdl_calculator project 1\source.cpp(253): warning C4018: '<': signed/unsigned mismatch
+l:\sdl_calculator project 1\sdl_calculator project 1\source.cpp(148): warning C4101: 'tmp': unreferenced local variable
+l:\sdl_calculator project 1\sdl_calculator project 1\source.cpp(279): warning C4715: 'cal': not all control paths return a value
+  SDL_Calculator Project 1.vcxproj -> L:\SDL_Calculator Project 1\Debug\SDL_Calculator Project 1.exe
